@@ -1,3 +1,3 @@
 # This is my portfolio website.
 
-You can acces it [here](https://softwebdev.netlify.app)
+You can access it [here](https://softwebdev.netlify.app)
