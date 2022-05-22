@@ -390,7 +390,7 @@ a {
 }
 
 .skill-card.large{
-  grid-column: 5 span;
+  grid-column: 4 span;
 }
 
 /* project section */
