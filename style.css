@@ -359,7 +359,7 @@ a {
 
 .skill-container{
   position: relative;
-  margin-top: 300px;
+  margin-top: 250px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px;
