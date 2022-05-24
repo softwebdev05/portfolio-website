@@ -359,9 +359,9 @@ a {
 
 .skill-container{
   position: relative;
-  margin-top: 250px;
+  margin-top: 100px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
 }
 
@@ -390,7 +390,7 @@ a {
 }
 
 .skill-card.large{
-  grid-column: 4 span;
+  grid-column: 3 span;
 }
 
 /* project section */
